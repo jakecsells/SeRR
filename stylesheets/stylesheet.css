@@ -355,6 +355,12 @@ Full-Width Styles
   margin-top:-20px;
 }
 
+#summary {
+  margin-left:20px;
+  margin-right:20px;
+  font-size:14px;
+}
+
 #downloads {
   position: absolute;
   width: 210px;
